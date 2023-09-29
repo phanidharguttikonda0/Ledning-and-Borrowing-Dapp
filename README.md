@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Lending and Borrowing Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is an Lending and Borrowing Dapp and also created an Token for borrowing that token is a stable coin based on the Indian Rupee and a Time lock contract is also maintaned
+for saving the borrower funds untill the last date
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+project - set up :
+
+  we need ganache for deploying the smart contract on the local ganache network
+
